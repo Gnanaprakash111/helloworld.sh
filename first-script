@@ -1,0 +1,6 @@
+#!/bin/bash
+
+#this is the comment
+
+echo "this is my first script"
+
